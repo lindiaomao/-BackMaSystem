@@ -1,0 +1,5 @@
+1、在运行项目前，先把vue_api_serve移出该目录,然后在demo目录中运行npm i 命令将项目所需文件下载好
+
+2、在vue_api_serve目录里面有api接口文档  
+
+3、同时，vue_api_serve里面也是一个服务器，进入该目录之后，在里面运行cmd命令，在使用node app.js命令开启服务器接口，这样就可以运行项目了
